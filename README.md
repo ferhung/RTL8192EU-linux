@@ -4,7 +4,7 @@ Realtek 8192EU Linux Driver
 How to build:
 
 ```
-  $ sodo su
+  $ sudo su
   # make clean
   # make
   # modprobe lib80211
